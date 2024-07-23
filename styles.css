@@ -1,0 +1,16 @@
+.lettuce {
+    margin-top: 30px;
+}
+
+.lettuce-img {
+    width: 300px;
+    display: block;
+}
+.go-back {
+    color: red;
+}
+body {
+    background: green;
+    color: rgb(255, 255, 255);
+}
+

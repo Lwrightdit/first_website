@@ -1,0 +1,5 @@
+.hero {
+    font-size: 20px;
+    background: url(./img/lettuce.jpeg) center center no-repeat;
+    background-size: cover; 
+}
